@@ -23,3 +23,21 @@ error for reference
 pip3 install --upgrade google-api-python-client
 
 pip3 install --upgrade oauth2client
+
+
+
+==================
+
+Python OCR
+
+https://blog.gtwang.org/programming/automation-of-google-ocr-using-python-tutorial/
+
+# Python 2
+pip install --upgrade google-api-python-client
+
+# Python 3
+pip3 install --upgrade google-api-python-client
+
+run google_ocr.py with simple.jpg file at the same folder
+
+see reference pages( gtwang's website)
